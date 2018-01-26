@@ -4,6 +4,14 @@ $('document').ready(function() {
 
 $("#contactInfo-form").on('submit', function(e) {
   e.preventDefault();
-  window.alert('Thank you', + $('#email').val() + ".")
+
+if($('#email').val().indexOf('@')>-1)
+{
+  alert('Thank you')
+}
+else {
+  alert('Please make you have @ in your email id')
+}
+
   $('html').append("Thanks for signing up!")
 });
