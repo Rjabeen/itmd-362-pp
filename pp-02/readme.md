@@ -1,4 +1,4 @@
-## ITMD 362, Production Problem 02: GitHub Group Repos and Pull Requests
+﻿## ITMD 362, Production Problem 02: GitHub Group Repos and Pull Requests
 
 For this Production Problem, you and your group for Project 2 are going to establish your group
 within a GitHub Organization (see
@@ -22,29 +22,49 @@ Initializing it on GitHub with a `README.md` file is fine, unless you’ve alrea
 on a group member’s computer. **That will be your shared repository for Project 2.**
 
 3. List the names of your group members here:
+Henry Psot
+Reshma Jabeen
+Marika Jasinski
+John Collins
+   
 
 4. Copy and paste the URL for your group’s GitHub organization here:
+https://github.com/ITMD-362-Project-2-Team-Team/itmd-362-project-2-2018
 
 5. Copy and paste the URL for your group’s shared repository here:
+https://github.com/ITMD-362-Project-2-Team-Team/
+
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
 Write the URL for your personal fork of the repository here:
+https://github.com/Rjabeen/itmd-362-project-2-2018
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
 `git remote add group` followed by the URL for your group’s repository.
+https://github.com/ITMD-362-Project-2-Team-Team/itmd-362-project-2-2018
 
 Write or paste the output of `git remote -v` from your copy of the forked repository here:
+
+jabee@LAPTOP-DU47IOIB MINGW64 ~/Desktop/itmd-362-project-2-2018 (master)
+$ git remote -v
+group   https://github.com/ITMD-362-Project-2-Team-Team/itmd-362-project-2-2018 (fetch)
+group   https://github.com/ITMD-362-Project-2-Team-Team/itmd-362-project-2-2018 (push)
+origin  https://github.com/Rjabeen/itmd-362-project-2-2018.git (fetch)
+origin  https://github.com/Rjabeen/itmd-362-project-2-2018.git (push)
+
+
 
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
 pull from the remote repo (`git pull group master`) to get any other group members’ names and
-strengths. Add and commit your own work, and push to your own repository (`git push origin master`).
+strengths. Add and commit your own work, and push to your own repository (`git push origin master`).rxplr
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request to the shared
 repository. Each group member should review the request before it is merged, and then pull from the
 group repository to have a complete, up-to-date `README.md` file.
 
 Write the URL of your pull request here:
+https://github.com/ITMD-362-Project-2-Team-Team/itmd-362-project-2-2018/pull/3
