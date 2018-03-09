@@ -1,4 +1,4 @@
-## ITMD 362, Production Problem 03: Color Palettes
+﻿## ITMD 362, Production Problem 03: Color Palettes
 
 For this production problem, you’re going to create several custom color palettes on the site
 Paletton, http://paletton.com.
@@ -11,20 +11,22 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=14v0v0kmYtoqNgadSmipvQ578Oc
+Your Rationale: I chose this color because this color is more appropriate for gaming platform. It'sone of the color
+for gaming and it's my favorite color too. It's  relaxing to eyes.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=51B1l0kCmtlCRfMnUlDLIWYhDCm
+Your Rationale:This one has pumpkin squash, and green color for spring time . I think it has 
+all spring colors.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
+Your Palette URL:http://paletton.com/#uid=32P0+0ksLqzwkbyh3huwcOxceCs
 Your Rationale:
-
+I chose this color because bright colors might attract children curiousity to learn
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=c3D543g4H0kubll54iY004cfoRN7D++
+Your Rationale: I like this for cyber security , it looks cool
