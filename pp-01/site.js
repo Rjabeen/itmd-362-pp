@@ -10,7 +10,7 @@ if($('#email').val().indexOf('@')>-1)
   alert('Thank you')
 }
 else {
-  alert('Please make you have @ in your email id')
+  alert('Please make sure you have @ in your email id')
 }
 
   $('html').append("Thanks for signing up!")

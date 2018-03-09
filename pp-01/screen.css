@@ -12,12 +12,26 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
   font-size: 1.125em; /*18/16 =1.125*/
   line-height: 1.2222rem; /*22/18 = 1.2222rem */
+  font-family: sans-serif, Helvetica, Arial;
+  text-decoration: none;
 }
 
 li {
   padding-bottom: 0.611rem; /*11/18 = 0.611rem*/
+  list-style-type: none;
 }
 
 ul {
   padding-top: 0.666rem; /*11/18 = 0.666rem*/
 }
+
+@media screen and (min-width: 320px) {
+  #form {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  #form {
+    width: 50%;
+  }
