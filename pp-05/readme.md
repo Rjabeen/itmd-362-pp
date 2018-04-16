@@ -15,18 +15,20 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.   https://stayintech.com/UX
+
+2.https://checklist.com/website-usability-checklist/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.The webpages load quickly and load time is reasonable
+2.Good font size and adequate line spacing
+3.Sticking to standard HTML/CSS is a plus for search engines
+4.Images have appropraite alt tags,because search engines need them to understand images too.
+5.Site should have a custom 404 not found page
+6.Company logo should be easily found, and email address should be placed incase if users have any difficulties 
+they can reach you.
+7.Tagline makes companies purpose clear, and avoid using jargons
+8.Site works from all internet browsers
+9.Navigation is clear and consistent throughout the site.
+10.Major heading are clear and descriptive. Styles and colors are consistent.
